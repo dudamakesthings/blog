@@ -1,0 +1,104 @@
+baseURL = 'https://dudamakesthings.github.io'
+languageCode = 'en'
+DefaultContentLanguage = "en"
+title = 'Duda Makes Things!'
+theme = 'anatole'
+
+#######
+
+[params]
+mainSections = [] #for using a static page as home page
+favicon = "favicons/" #favicon need to be inside the params
+title = "Hello World!"
+author = "eDUarDA R."
+description = """
+Learning.
+Tech.
+Crafts
+& MoRe!
+"""
+profilePicture = "images/profile.jpg"
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# icons in the social parte
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/dudamakesthings"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/dudamakesthings"
+
+[[params.socialIcons]]
+icon = "fab fa-behance"
+title = "Behance"
+url = "https://www.behance.net/dudamakesthings"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "E-mail"
+url = "mailto:dudamakesthings@gmail.com"
+
+#######
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    LanguageName = "EN 🇺🇸"
+    languageCode = "en"
+    weight = 1
+    [languages.en.menus]
+        #Menu English
+        [[languages.en.menu.main]]
+            name = "Home"
+            weight = 100
+            pageRef = "/"
+
+        [[languages.en.menu.main]]
+            name = "Posts"
+            weight = 200
+            pageRef = "/posts"
+
+        [[languages.en.menu.main]]
+            name = "About"
+            weight = 300
+            pageRef = "/about"
+
+  
+  [languages.pt-br]
+    description = """
+       Aprendizados.
+       Tecnologia.
+       Artesanato
+        & mais!
+       """
+    contentDir = "content/pt"
+    LanguageName = "PT-BR 🇧🇷"
+    languageCode = "pt-br"
+    weight = 2
+    [languages.pt-br.menus]
+        #Menu Portuguese
+        [[languages.pt-br.menu.main]]
+            name = "Início"
+            weight = 100
+            pageRef = "/"
+
+        [[languages.pt-br.menu.main]]
+            name = "Postagens"
+            weight = 200
+            pageRef = "/posts"
+
+        [[languages.pt-br.menu.main]]
+            name = "Sobre"
+            weight = 300
+            pageRef = "/about"
+  
+
+
