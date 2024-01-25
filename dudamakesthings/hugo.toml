@@ -11,18 +11,14 @@ mainSections = [] #for using a static page as home page
 favicon = "favicons/" #favicon need to be inside the params
 title = "Hello World!"
 author = "eDUarDA R."
-description = """
-Learning.
-Tech.
-Crafts
-& MoRe!
-"""
 profilePicture = "images/profile.jpg"
-
+contentratio = 0.8 #bigger number small sidebar 
+#hidesidebar = true #this is for hide the side bar in a .md
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+category = "categories"
+series = "series"
+tag = "tags"
 
 # icons in the social parte
 
@@ -49,56 +45,61 @@ url = "mailto:dudamakesthings@gmail.com"
 #######
 
 [languages]
-  [languages.en]
-    contentDir = "content/en"
-    LanguageName = "EN 🇺🇸"
-    languageCode = "en"
+    [languages.en]
+        contentDir = "content/en"
+        LanguageName = "EN 🇺🇸"
+        languageCode = "en"
     weight = 1
+    description = """
+    Learning.
+    Tech.
+    Crafts
+    & MoRe!
+    """
     [languages.en.menus]
         #Menu English
         [[languages.en.menu.main]]
             name = "Home"
             weight = 100
-            pageRef = "/"
+            pageRef = '/'
 
         [[languages.en.menu.main]]
             name = "Posts"
             weight = 200
-            pageRef = "/posts"
+            pageRef = '/post'
 
         [[languages.en.menu.main]]
             name = "About"
             weight = 300
-            pageRef = "/about"
+            pageRef = '/about'
 
-  
-  [languages.pt-br]
-    description = """
-       Aprendizados.
-       Tecnologia.
-       Artesanato
-        & mais!
-       """
-    contentDir = "content/pt"
+    [languages.pt-br]
+    contentDir = "content/pt-br"
     LanguageName = "PT-BR 🇧🇷"
     languageCode = "pt-br"
     weight = 2
+    description = """
+    Aprendizados.
+    Tecnologia.
+    Artesanato
+        & mais!
+    """
     [languages.pt-br.menus]
         #Menu Portuguese
         [[languages.pt-br.menu.main]]
             name = "Início"
             weight = 100
-            pageRef = "/"
+            pageRef = '/'
 
         [[languages.pt-br.menu.main]]
             name = "Postagens"
             weight = 200
-            pageRef = "/posts"
+            pageRef = '/post'
 
         [[languages.pt-br.menu.main]]
             name = "Sobre"
             weight = 300
-            pageRef = "/about"
-  
+            pageRef = '/about'
+
 
 

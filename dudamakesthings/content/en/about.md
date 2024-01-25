@@ -1,9 +1,7 @@
 +++
-title = 'About'
+title = 'About Duda Makes Things and Who Writes'
 date = 2024-01-21T21:22:16+01:00
 +++
-
-## About Duda Makes Things and Who Writes
 
 Hello and Welcome!
 

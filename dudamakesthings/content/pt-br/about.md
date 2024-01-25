@@ -1,9 +1,7 @@
 +++
-title = 'Sobre'
+title = 'Sobre Duda Makes Things e Quem Escreve'
 date = 2024-01-21T21:22:43+01:00
 +++
-
-## Sobre Duda Makes Things e Quem Escreve
 
 Olá e Boas Vindas!
 
