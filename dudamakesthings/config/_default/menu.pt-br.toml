@@ -15,9 +15,9 @@
 # 	parent = "Postagens"
 
 # [[main]]
-# 	name = "Tags"
+# 	name = "Etiquetas"
 # 	weight = 220
-# 	url = "/tags"
+# 	url = "/etiquetas"
 # 	parent = "Postagens"
 
 [[main]]
@@ -28,19 +28,19 @@
 [[main]]
 	name = "Letras & Linha"
 	weight = 310
-	url = "/letras_e_linha"
+	pageRef = "/projetos/letraselinha"
 	parent = "Projetos"
 
 [[main]]
 	name = "Electric Sheep Crafts"
 	weight = 320
-	url = "/esc"
+	pageRef = "/projetos/esc"
 	parent = "Projetos"
 
 [[main]]
 	name = "Yogini Duda"
 	weight = 330
-	url = "/yogini_duda"
+	pageRef = "/projetos/yoginiduda"
 	parent = "Projetos"
 
 [[main]]

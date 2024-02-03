@@ -16,9 +16,14 @@ title = "GitHub"
 url = "https://github.com/dudamakesthings"
 
 [[socialIcons]]
-icon = "fab fa-instagram"
-title = "Instagram"
-url = "https://www.instagram.com/dudamakesthings"
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/edooarda/"
+
+# [[socialIcons]]
+# icon = "fab fa-instagram"
+# title = "Instagram"
+# url = "https://www.instagram.com/dudamakesthings"
 
 [[socialIcons]]
 icon = "fab fa-behance"

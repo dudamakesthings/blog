@@ -7,12 +7,8 @@
 		Learning.
 		Tech.
 		Crafts
-		& MoRe!
+		& more!
 	"""
-[en.taxonomies]
-	category = "categories"
-    series = "series"
-    tag = "tags"
 
 [pt-br]
 	contentDir = "content/pt-br"
@@ -25,8 +21,3 @@
 		Artesanato
 		& mais!
 	"""
-
-[pt-br.taxonomies]
-	category = "categorias"
-    series = "series"
-    tag = "tags"

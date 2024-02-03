@@ -9,16 +9,28 @@
     pageRef = '/post'
 
 [[main]]
+	name = "Label"
+	weight = 400
+	pageRef = "/label"
+	# parent = "Posts"
+
+[[main]]
 	name = "Categories"
-	weight = 210
-	url = "/categories"
-	parent = "Posts"
+	weight = 410
+	pageRef = "/categories"
+	parent = "Label"
 
 [[main]]
 	name = "Tags"
-	weight = 220
-	url = "/tags"
-	parent = "Posts"
+	weight = 400
+	pageRef = "/tags"
+	parent = "Label"
+
+# [[main]]
+# 	name = "Series"
+# 	weight = 230
+# 	url = "/series/"
+# 	parent = "Posts"
 
 [[main]]
     name = "Projects"
@@ -28,16 +40,16 @@
 [[main]]
 	name = "Electric Sheep Crafts"
 	weight = 310
-	url = "/esc"
+	pageRef = "/projects/esc"
 	parent = "Projects"
 
 [[main]]
 	name = "Yogini Duda"
 	weight = 320
-	url = "/yogini_duda"
+	pageRef = "/projects/yoginiduda"
 	parent = "Projects"
 
 [[main]]
     name = "About"
-    weight = 400
+    weight = 500
     pageRef = '/about'

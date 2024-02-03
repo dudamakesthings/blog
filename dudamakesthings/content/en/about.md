@@ -9,13 +9,13 @@ My name is **Eduarda** but you can call me **Duda**.
 
 I'm a Brazilian woman in the 30's living in the Netherlands. 
 
-I love to do handmade things, like crochet and knitting. Actually I am in love with knitting.
+I love to do handmade things, like crochet and knitting.
 
-I am planing to post some projects here and my instagram page.
+In this space, I'm planning to post some projects, write about my opinion about books, and movies and write about my learning experiences.
 
 #### Why Duda Makes Things? 
 
-Well, because I have a lot o hobbies and I love to learn, so, I made so things. 
+Well, because I have a lot of hobbies and I love to learn, so, I have done and I do so many different things.
 
 
 
