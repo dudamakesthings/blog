@@ -1,0 +1,15 @@
+baseURL = 'https://dudamakesthings.github.io'
+languageCode = 'en'
+DefaultContentLanguage = "en"
+title = 'Duda Makes Things!'
+theme = 'anatole'
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+# [taxonomies]
+#     category = "categories"
+#     series = "series"
+#     tag = "tags"

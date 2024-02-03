@@ -1,0 +1,32 @@
+[en]
+	contentDir = "content/en"
+	LanguageName = "EN 🇺🇸"
+	languageCode = "en"
+	weight = 1
+	description = """
+		Learning.
+		Tech.
+		Crafts
+		& MoRe!
+	"""
+[en.taxonomies]
+	category = "categories"
+    series = "series"
+    tag = "tags"
+
+[pt-br]
+	contentDir = "content/pt-br"
+	LanguageName = "PT-BR 🇧🇷"
+	languageCode = "pt-br"
+	weight = 2
+	description = """
+		Aprendizados.
+		Tecnologia.
+		Artesanato
+		& mais!
+	"""
+
+[pt-br.taxonomies]
+	category = "categorias"
+    series = "series"
+    tag = "tags"

@@ -1,0 +1,49 @@
+[[main]]
+    name = "Início"
+    weight = 100
+    pageRef = '/'
+
+[[main]]
+    name = "Postagens"
+    weight = 200
+    pageRef = '/post'
+
+# [[main]] ->>>>>> need verification is not working
+# 	name = "Categorias"
+# 	weight = 210
+# 	url = "/categories"
+# 	parent = "Postagens"
+
+# [[main]]
+# 	name = "Tags"
+# 	weight = 220
+# 	url = "/tags"
+# 	parent = "Postagens"
+
+[[main]]
+    name = "Projetos"
+    weight = 300
+    pageRef = '/projetos'
+
+[[main]]
+	name = "Letras & Linha"
+	weight = 310
+	url = "/letras_e_linha"
+	parent = "Projetos"
+
+[[main]]
+	name = "Electric Sheep Crafts"
+	weight = 320
+	url = "/esc"
+	parent = "Projetos"
+
+[[main]]
+	name = "Yogini Duda"
+	weight = 330
+	url = "/yogini_duda"
+	parent = "Projetos"
+
+[[main]]
+    name = "Sobre"
+    weight = 400
+    pageRef = '/about'

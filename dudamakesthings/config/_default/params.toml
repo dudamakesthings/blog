@@ -1,0 +1,36 @@
+mainSections = [] #for using a static page as home page
+favicon = "favicons/" #favicon need to be inside the params
+title = "Hello World!"
+author = "eDUarDA R."
+profilePicture = "images/profile.jpg"
+contentratio = 0.8 #bigger number small sidebar 
+#hidesidebar = true #this is for hide the side bar in a .md
+enableMediumZoom = false #disable zoom image
+doNotLoadAnimations = true # Animations are loaded by default
+
+#Social Media Icons
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/dudamakesthings"
+
+[[socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/dudamakesthings"
+
+[[socialIcons]]
+icon = "fab fa-behance"
+title = "Behance"
+url = "https://www.behance.net/dudamakesthings"
+
+# [[socialIcons]]
+# icon = "fab fa-youtube"
+# title = "Youtube"
+# url = "https://www.youtube.com/@dudamakesthings"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "E-mail"
+url = "mailto:dudamakesthings@gmail.com"
