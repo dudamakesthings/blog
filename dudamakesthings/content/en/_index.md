@@ -15,10 +15,10 @@ Some ideas that I would like to be found here:
 ---------------
 #### Post Keys
 
-- [BO##] - Opinion about Books and the current number of opinion here
-- [MO##] - Opinion about Movies and the current number of opinion here
-- [SO##] - Opinion about Serie, could be just one Season or the whole serie
-- [OOD##] - Opinion about an Oriental Drama, could be Dorama or Kdrama
+- 📖 **[BO##]** - Opinion about Books and the current number of opinion here;
+- 🎞 **[MO##]** - Opinion about Movies and the current number of opinion here, include animes and cartoons;
+- 🎬 **[SO##]** - Opinion about Serie, could be just one Season or the whole serie, include animes and cartoons;
+- 🎭 **[OOD##]** - Opinion about an Oriental Drama, could be Dorama or Kdrama;
 
 ---------------
 
@@ -27,7 +27,7 @@ There will be here content in **English** and **Portuguese** some content are di
 ## Where find me on the Internet?
 Here are some links where you could find me
 
-#### | [📸 Instagram](https://www.instagram.com/dudamakesthings) | [📽️ Youtube](https://www.youtube.com/@dudamakesthings) | [✨ Shop ESC](https://www.instagram.com/electricsheepcrafts/) | [📖🇧🇷 Books PT-BR](https://www.skoob.com.br/usuario/163732) | [📖 Books Goodreads](https://www.goodreads.com/user/show/50961461-eduarda) | [🧶 Ravelry](https://www.ravelry.com/people/dudamakesthings) | [🌱 My Digital Garden](https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4) | [🧠 Pinterest](https://nl.pinterest.com/dudamakesthings/) | [♟️ Chess](https://www.chess.com/member/edooarda) | [💼 Linkedin](https://www.linkedin.com/in/edooarda/) | [✏️ Behance](https://www.behance.net/dudamakesthings) | [👩🏻‍💻 GITHUB](https://github.com/dudamakesthings) |
+#### | [📸 Instagram](https://www.instagram.com/dudamakesthings) | [📽️ Youtube](https://www.youtube.com/@dudamakesthings) | [✨ Shop ESC](https://www.instagram.com/electricsheepcrafts/) | [📖🇧🇷 Books PT-BR](https://www.skoob.com.br/usuario/163732) | [📖 Books Goodreads](https://www.goodreads.com/user/show/50961461-eduarda) | [🧶 Ravelry](https://www.ravelry.com/people/dudamakesthings) | [🌱 My Digital Garden](https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4) | [🧠 Pinterest](https://nl.pinterest.com/dudamakesthings/) | [♟️ Chess](https://www.chess.com/member/edooarda) | [🖋 Codepen](https://codepen.io/dudamakesthings) | [💼 Linkedin](https://www.linkedin.com/in/edooarda/) | [✏️ Behance](https://www.behance.net/dudamakesthings) | [👩🏻‍💻 GITHUB](https://github.com/dudamakesthings) |
   
 <!-- * [📸 Instagram](https://www.instagram.com/dudamakesthings) 
 * [📽️ Youtube](https://www.youtube.com/@dudamakesthings)

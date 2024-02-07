@@ -1,5 +1,5 @@
 +++
-title = 'Electric Sheep Crafts'
+title = '🧶 Electric Sheep Crafts ⚡ 🐑'
 date = 2024-02-03T20:10:27+01:00
 draft = false
 +++

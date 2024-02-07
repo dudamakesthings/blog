@@ -1,10 +1,10 @@
 +++
-title = 'Yogini Duda'
+title = '🕉️ Yogini Duda 🧘‍♀️'
 date = 2024-02-03T15:12:01+01:00
 draft = false
 +++
 
-#### This is my project for my Yogini Path and a healthy life
+#### This is my project for my Yogini Path and a healthy life 🧘‍♀️
 
 I really like yoga, my first contact was with the postures(asanas) that I started in 2018 at a free class in the university that I used to do.
 

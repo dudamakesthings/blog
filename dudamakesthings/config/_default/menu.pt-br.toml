@@ -32,14 +32,20 @@
 	parent = "Projetos"
 
 [[main]]
-	name = "Electric Sheep Crafts"
+	name = "Letróloga Artista"
 	weight = 320
+	pageRef = "/projetos/letrologaartista"
+	parent = "Projetos"
+
+[[main]]
+	name = "Electric Sheep Crafts"
+	weight = 330
 	pageRef = "/projetos/esc"
 	parent = "Projetos"
 
 [[main]]
 	name = "Yogini Duda"
-	weight = 330
+	weight = 340
 	pageRef = "/projetos/yoginiduda"
 	parent = "Projetos"
 

@@ -15,11 +15,11 @@ Algumas ideias do que quero que possas encontrar por aqui no futuro:
 ---------------
 #### Legenda sobre as siglas das postagens
 
-- [OL##] - Opinião sobre Livro e o número representa qual o número do livro opinado por aqui
-- [OF##] - Opinião sobre Filme e o número representa qual o número do filme opinado por aqui
-- [OS##] - Opinião sobre um série, podendo ser apenas uma temporada ou ela completa, aqui se inclui animes e desenhos também
-- [ODO##] - Opinião sobre um drama oriental, podendo ser dorama ou kdrama e o número dessa opinião por aqui
-- [L_L##] - Projeto Letras & Linha, são pequenas poesias, e número representa a ordem que elas foram criadas
+- 📖 **[OL##]** - Opinião sobre Livro e o número representa qual o número do livro opinado por aqui;
+- 🎞 **[OF##]** - Opinião sobre Filme e o número representa qual o número do filme opinado por aqui;
+- 🎬 **[OS##]** - Opinião sobre um série, podendo ser apenas uma temporada ou ela completa, incluindo animes e desenhos;
+- 🎭 **[ODO##]** - Opinião sobre um drama oriental, podendo ser dorama ou kdrama e o número dessa opinião por aqui;
+- 💌 **[L_L##]** - Ordem das pequenas poesias criadas no Projeto Letras & Linha;
 
 ----------------
 
@@ -28,7 +28,7 @@ Por aqui vai ter conteúdo em **Inglês** e **Português**, e vão ter alguns co
 ## Onde me achar na internet?
 Aqui estão alguns links para outros lugares da internet em que me encontro 
 
-#### | [📸 Instagram](https://www.instagram.com/dudamakesthings) | [📽️ Youtube](https://www.youtube.com/@dudamakesthings) | [✨ Loja ESC](https://www.instagram.com/electricsheepcrafts/) | [📖🇧🇷 Livros Skoob](https://www.skoob.com.br/usuario/163732) | [📖 Livros Goodreads](https://www.goodreads.com/user/show/50961461-eduarda) | [🧶 Ravelry](https://www.ravelry.com/people/dudamakesthings) | [🌱 Meu Jardim Digital](https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4) | [🧠 Pinterest](https://nl.pinterest.com/dudamakesthings/) | [♟️ Xadrez](https://www.chess.com/member/edooarda) | [💼 Linkedin](https://www.linkedin.com/in/edooarda/) | [✏️ Behance](https://www.behance.net/dudamakesthings) | [👩🏻‍💻 GITHUB](https://github.com/dudamakesthings) |
+#### | [📸 Instagram](https://www.instagram.com/dudamakesthings) | [📽️ Youtube](https://www.youtube.com/@dudamakesthings) | [✨ Loja ESC](https://www.instagram.com/electricsheepcrafts/) | [📖🇧🇷 Livros Skoob](https://www.skoob.com.br/usuario/163732) | [📖 Livros Goodreads](https://www.goodreads.com/user/show/50961461-eduarda) | [🧶 Ravelry](https://www.ravelry.com/people/dudamakesthings) | [🌱 Meu Jardim Digital](https://galacticdigitalgarden.notion.site/Galactic-Digital-Garden-7c5de8ce580f48a9b41a05aea295afab?pvs=4) | [🧠 Pinterest](https://nl.pinterest.com/dudamakesthings/) | [♟️ Xadrez](https://www.chess.com/member/edooarda) | [🖋 Codepen](https://codepen.io/dudamakesthings) | [💼 Linkedin](https://www.linkedin.com/in/edooarda/) | [✏️ Behance](https://www.behance.net/dudamakesthings) | [👩🏻‍💻 GITHUB](https://github.com/dudamakesthings) |
   
 <!-- * [📸 Instagram](https://www.instagram.com/dudamakesthings) 
 * [📽️ Youtube](https://www.youtube.com/@dudamakesthings)
