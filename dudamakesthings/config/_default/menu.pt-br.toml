@@ -31,11 +31,11 @@
 	pageRef = "/projetos/letraselinha"
 	parent = "Projetos"
 
-[[main]]
-	name = "Letróloga Artista"
-	weight = 320
-	pageRef = "/projetos/letrologaartista"
-	parent = "Projetos"
+# [[main]]
+# 	name = "Letróloga Artista"
+# 	weight = 320
+# 	pageRef = "/projetos/letrologaartista"
+# 	parent = "Projetos"
 
 [[main]]
 	name = "Electric Sheep Crafts"
@@ -50,6 +50,24 @@
 	parent = "Projetos"
 
 [[main]]
+	name = "Arquivo"
+	weight = 400
+	pageRef = "/arquivo"
+	# parent = "Posts"
+
+[[main]]
+	name = "Categorias"
+	weight = 410
+	pageRef = "/categories"
+	parent = "Arquivo"
+
+[[main]]
+	name = "Etiquetas"
+	weight = 420
+	pageRef = "/tags"
+	parent = "Arquivo"
+
+[[main]]
     name = "Sobre"
-    weight = 400
+    weight = 500
     pageRef = '/about'

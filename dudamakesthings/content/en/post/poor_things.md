@@ -2,8 +2,8 @@
 title: "[BO#1] Poor things"
 date: 2024-02-02T21:56:13+01:00
 Description: "My opinion about the book Poor Things by Alasdair Gray"
-Tags: ["Book", "Comment"]
-Categories: ["Book_Review"]
+Tags: ["Book", "Ebook"]
+Categories: ["Book_Opinion"]
 DisableComments: true
 ---
 #### My book opinion about Poor things a novel by Alasdair Gray.

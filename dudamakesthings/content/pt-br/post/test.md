@@ -4,7 +4,8 @@ date: 2024-01-25T21:12:26+01:00
 Description: ""
 Tags: ["Aprendizado"]
 Categories: ["Learning"]
-DisableComments: true
+DisableComments: false
+draft: true
 ---
 ## Primeira Tentativa de Escrita 
 
